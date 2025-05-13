@@ -42,7 +42,7 @@ npm run dev
 
 ## 📸 Screenshot
 
-![alt text](image.png)
+![alt text](image-1.png)
 
 ## 📁 Project Structure
 
@@ -58,8 +58,10 @@ src/
 
 ## 🌐 Live Demo
 
+[Todo List](https://todo-list-ten-amber-52.vercel.app/)
+
 ## 👩‍💻 Author
 
 Vivian Loza
-LinkedIn: [text](https://www.linkedin.com/in/vivian-loza777/)
-GitHub: [text](https://github.com/tamikaivi)
+[LinkedIn](https://www.linkedin.com/in/vivian-loza777/)
+[GitHub](https://github.com/tamikaivi)
